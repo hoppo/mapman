@@ -1,0 +1,8 @@
+{
+  "name": "test-mapman",
+  "private": true,
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "datatables": "~1.10.4"
+  }
+}
